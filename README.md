@@ -1,6 +1,6 @@
 ## Stock Price Prediction-LSTM
 
-- This Project is predicting stocks for AAPL companiy with an error of less than 5% using LSTM Networks.
+- This Project is predicting stocks for AAPL company with an error of less than 5% using LSTM Networks.
 - I have not used pre-built models. I have trained LSTM NN models for the company .
 - The data considered here is of 5 years for all companies. From (27 May,2015) to (22 May,2020)
 - From the dataset we have only used the closing price for our prediction.
